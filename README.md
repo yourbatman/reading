@@ -2,14 +2,6 @@
 
 Author     | A哥(YourBatman)
 -------- | -----
-个人站点  | www.yourbatman.cn
-E-mail  | yourbatman@qq.com
-微 信  | fsx641385712
-公众号  | BAT的乌托邦（ID：BAT-utopia）
-
-
-Author     | A哥(YourBatman)
--------- | -----
 个人站点  | [www.yourbatman.cn](https://www.yourbatman.cn)
 E-mail  | yourbatman@qq.com
 **微 信**  | [fsx641385712](https://www.yourbatman.cn/images/wechat.png)
@@ -17,3 +9,6 @@ E-mail  | yourbatman@qq.com
 **公众号**  | [BAT的乌托邦（ID：BAT-utopia）](https://www.yourbatman.cn/images/wechat_channel.jpg)
 知识星球  | [BAT的乌托邦](https://t.zsxq.com/nQBi66I)
 每日文章推荐 | [每日文章推荐](https://github.com/yourbatman/reading/issues)
+
+---
+![BAT的乌托邦](https://img-blog.csdnimg.cn/20200710160552549.gif)
